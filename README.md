@@ -1,24 +1,16 @@
-# README
+# Friends App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A fullstack stack app that displays CRUD functionality and authentication/authorization system.
 
-Things you may want to cover:
+Built with:
+* Ruby on Rails
+* Bootstrap
+* Devise
 
-* Ruby version
+*This site is hosted on [Heroku](https://www.heroku.com/home) but is not active because I would get charged. If you want to interact with the website to test it's functionality, you can send me an email at dselimovic02@gmail.com to activate it for you. Or you can clone this repo and run it locally.*
 
-* System dependencies
+## Preview
+Considering the site is not live, here is a short preview.
 
-* Configuration
+![Preview video showing app functionality.](/app/assets/video/preview.gif)
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
